@@ -1,0 +1,61 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url("/wall.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    background-color: rgba(30, 30, 30, 0.8);
+}
+
+.bodykits_table{
+    background-color: rgba(30, 30, 30, 0.8);
+    color:white;
+    align-content: center;
+    padding: 20px;
+}
+
+h1#headings{
+    color: #e2dbdc;
+    text-align: center;
+}
+
+p{
+    color: #e0e0e0;
+}
+
+img#paint_examples{
+    padding:10px;
+    height:250px;
+}
+
+img#bodykits_table{
+    height:300px;
+    float: right;
+}
+
+.demo{
+    padding: 20px;
+    background-color: rgba(30, 30, 30, 0.8);
+}
+
+.paint{
+    background-color: rgba(30, 30, 30, 0.8);
+    color: #e2dbdc;
+    text-align: center;
+}
+
+h3#example{
+    color:white;
+}
+
+.footer{
+    padding: 20px;
+    color: white;
+    background-color: rgba(30, 30, 30, 0.8);
+}
